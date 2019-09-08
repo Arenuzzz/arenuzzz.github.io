@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{262:function(n,e,t){"use strict";t.r(e);var a=t(0),u=t.n(a),c=t(244);e.default=function(){return u.a.createElement(c.a,null)}}}]);
+//# sourceMappingURL=component---src-pages-investments-js-a6958f070296e10a9f26.js.map
